@@ -38,7 +38,7 @@
 
 📫 **Let's Connect**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/saigireesha/)  
-- 🌐 [Portfolio / Blog](https://gandhamunenis1.github.io/Gireesha-Portfolio/)  
+- 🌐 [Portfolio / Blog](https://gandhamunenis1.github.io/Gireesha-Portfolio/)
 
 
 ⭐️ **Fun Fact**: I love turning messy data into clean insights and believe coffee + code = magic.
