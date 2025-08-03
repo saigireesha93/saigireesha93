@@ -39,16 +39,7 @@
 📫 **Let's Connect**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/saigireesha/)  
 - 🌐 [Portfolio / Blog](https://gandhamunenis1.github.io/Gireesha-Portfolio/)  
----
+
 
 ⭐️ **Fun Fact**: I love turning messy data into clean insights and believe coffee + code = magic.
-
-<!-- Optional GitHub stats section -->
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![Gireesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saigireesha93&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saigireesha93&layout=compact&theme=radical)
-
-</details>
 
