@@ -8,7 +8,7 @@
 
 🎯 **About Me**  
 - 🎓 Computer Science Graduate Student  
-- 🚀 Experienced Data Engineer with 5+ years of industry experience  
+- 🚀 Experienced Data Engineer with around 5 years of industry experience  
 - 📍 Currently exploring **Big Data, Cloud, and Real-time Pipelines**  
 - 💡 Passionate about building scalable and efficient data platforms  
 - 🛠️ Always looking for challenging problems and creative solutions
